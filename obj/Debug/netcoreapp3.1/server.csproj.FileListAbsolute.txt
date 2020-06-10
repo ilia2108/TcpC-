@@ -1,0 +1,12 @@
+/Users/ryabuily/Desktop/TcpC#/server/bin/Debug/netcoreapp3.1/server.deps.json
+/Users/ryabuily/Desktop/TcpC#/server/bin/Debug/netcoreapp3.1/server.runtimeconfig.json
+/Users/ryabuily/Desktop/TcpC#/server/bin/Debug/netcoreapp3.1/server.runtimeconfig.dev.json
+/Users/ryabuily/Desktop/TcpC#/server/bin/Debug/netcoreapp3.1/server.dll
+/Users/ryabuily/Desktop/TcpC#/server/bin/Debug/netcoreapp3.1/server.pdb
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.csprojAssemblyReference.cache
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.AssemblyInfoInputs.cache
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.AssemblyInfo.cs
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.csproj.CoreCompileInputs.cache
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.dll
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.pdb
+/Users/ryabuily/Desktop/TcpC#/server/obj/Debug/netcoreapp3.1/server.genruntimeconfig.cache
